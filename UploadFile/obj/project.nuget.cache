@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RKq1qC/nGFj16soZvPUBGw1HfWF9vYOwrGlvYSkqAc2aLr9atXmY/dm3Kg3UBDuMESLXhjbxxGOUIh5h9+5Oow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kalip\\source\\repos\\UploadFile\\UploadFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalip\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\kalip\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kalip\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\kalip\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\kalip\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\kalip\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
